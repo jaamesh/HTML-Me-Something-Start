@@ -1,1 +1,21 @@
 /* Write your CSS here! */
+* {
+    font-family: "Open Sans", sans-serif;
+    /*font-size: 1.0rem;*/
+}
+
+body {
+    margin: 8px auto;
+    width: 800px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 1.2rem;
+}
+
+p.funParagraph {
+    color: green;
+    font-style: italic;
+}
